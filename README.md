@@ -20,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=essoubai322&show_icons=true&locale=en" alt="essoubai322" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=essoubai322&" alt="essoubai322" /></p>
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/asebaai" alt="asebaai's 42 stats" /></a>
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/asebaai" alt="asebaai's 42 stats" /></a>
