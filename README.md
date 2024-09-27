@@ -11,6 +11,7 @@
 <a href="https://instagram.com/ayoubsbaia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayoubsbaia" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/asebaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asebaai" height="30" width="40" /></a>
 <a href="https://discord.gg/286137008718348288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="286137008718348288" height="30" width="40" /></a>
+  <a href="https://www.codingame.com/profile/3d1f65801632349371ddca14cec83f397607106" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="asebaai" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=essoubai322&show_icons=true&locale=en&layout=compact" alt="essoubai322" /></p>
