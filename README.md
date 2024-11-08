@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayoub Sebaai</h1>
 <h3 align="center">A Student "1337 School" from Morocco!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=essoubai322&label=Profile%20views&color=0e75b6&style=flat" alt="essoubai322" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
