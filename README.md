@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayoub Sebaai</h1>
 <h3 align="center">A Student "1337 School" from Morocco!</h3>
-
+https://github-readme-stats.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +13,6 @@
   <a href="https://www.codingame.com/profile/3d1f65801632349371ddca14cec83f397607106" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="asebaai" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=essoubai322&show_icons=true&locale=en&layout=compact" alt="essoubai322" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=essoubai322&show_icons=true&locale=en" alt="essoubai322" /></p>
 
