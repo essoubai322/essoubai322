@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Sebaai</h1>
 <h3 align="center">A Student "1337 School" from Morocco!</h3>
-https://github-readme-stats.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
